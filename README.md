@@ -1,6 +1,6 @@
-# bode_flutter
+# ToDoApp
 
-A new Flutter project.
+A new Flutter project. ToDoApp is Mobile Application that helps you to organize your daily tasks and thus you can add new tasks and when you finish executing them you add them to the list of finished tasks. It is possible to put tasks in an Archived Tasks to do at a later time. You can also delete any task that is no longer important to you.
 
 ## Getting Started
 
